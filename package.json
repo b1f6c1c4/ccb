@@ -1,7 +1,7 @@
 {
   "name": "ccb",
   "version": "0.0.0",
-  "description": "Convert CCB credit card bill email to csv format",
+  "description": "Convert CCB credit card statement email to csv",
   "main": "index.js",
   "dependencies": {
     "eml-format": "^0.6.1"
