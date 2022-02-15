@@ -1,0 +1,19 @@
+{
+  "name": "ccb",
+  "version": "0.0.0",
+  "description": "Convert CCB credit card bill email to csv format",
+  "main": "index.js",
+  "dependencies": {
+    "eml-format": "^0.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b1f6c1c4/ccb.git"
+  },
+  "author": "b1f6c1c4 <b1f6c1c4@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b1f6c1c4/ccb/issues"
+  },
+  "homepage": "https://github.com/b1f6c1c4/ccb#readme"
+}
