@@ -18,6 +18,7 @@ emlformat.read(eml, (error, data) => {
   while (m = re.exec(t)) {
     const o = {
       ...m.groups,
+      rmk: m.groups.rmk.replace(/,/, '_'),
       tf: +m.groups.tf.replace(/,/, ''),
       bf: +m.groups.pf.replace(/,/, ''),
     };
