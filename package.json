@@ -1,6 +1,6 @@
 {
   "name": "@b1f6c1c4/ccb",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert CCB credit card statement email to csv",
   "main": "index.js",
   "bin": {
